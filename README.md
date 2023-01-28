@@ -72,3 +72,19 @@ ___
 </div> 
 
 ___
+### ➡️ **Pilares da POO**
+
+Abstração -> Informações relevantes e essência para a classe existir
+
+Encapsulamento -> Proteger os dados e torna privados
+
+Herança ->
+
+Polimorfismo -> 
+Dinamico: 
+Estático
+
+
+
+
+
