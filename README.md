@@ -74,7 +74,14 @@ ___
 ___
 ### ➡️ **Pilares da POO**
 
-Abstração -> Informações relevantes e essência para a classe existir
+- **Abstração**
+
+    A abstração é utilizada para estabelecer os atributos e métodos essências para criação do objeto determinado. Portanto, existe uma dependência do objeto em relação aos atributos estabelecidos. 
+    
+    No exemplo abaixo é demonstrado que para existir uma pessoa é necessário ter um nome, altura e peso, enquanto nas classes "Pessoa 1" e "Pessoa 2" existem outros atributos que não estão presentes em ambos, desse modo não sendo essenciais.
+    
+     ![Classe abstrata](https://user-images.githubusercontent.com/36522521/215302022-78e00048-2543-4cb4-91ae-9fd2a5bfa3c6.png)
+  
 
 Encapsulamento -> Proteger os dados e torna privados
 
