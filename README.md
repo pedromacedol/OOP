@@ -86,11 +86,13 @@ ___
     No encapsulamento ocorre a proteção dos dados, visto que os atributos serão privados. Portanto, devemos utilizar para "esconder" informações do usuário, seja devido a informações sigilisas como fórmulas ou até mesmo processos realizadas pelo software.
 
 
-Herança ->
+- **Herança** 
 
-Polimorfismo -> 
-Dinamico: 
-Estático
+- **Polimorfismo** 
+
+    Dinamico: 
+    
+    Estático:
 
 
 ___
