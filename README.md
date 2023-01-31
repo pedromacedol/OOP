@@ -19,11 +19,10 @@ ___
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/36522521/215089889-4a374613-f170-4122-8023-2755fbe5a1b0.png" />
-    
-#### **A classe é um molde utilizado para criar objetos ou métodos, os quais tem características e ações similares.**
 
 </div>
 
+#### **A classe é um molde utilizado para criar objetos ou métodos, os quais tem características e ações similares.**
 
 - Type (**Nome) →** Qual a função dela?
 - Properties, data (**Atributos)** → O que descreve?
@@ -78,12 +77,14 @@ ___
 
     A abstração é utilizada para estabelecer os atributos e métodos essências para criação do objeto determinado. Portanto, existe uma dependência do objeto em relação aos atributos estabelecidos. 
     
-    No exemplo abaixo é demonstrado que para existir uma pessoa é necessário ter um nome, altura e peso, enquanto nas classes "Pessoa 1" e "Pessoa 2" existem outros atributos que não estão presentes em ambos, desse modo não sendo essenciais.
+    No exemplo abaixo é demonstrado que para existir uma pessoa é necessário ter um nome, altura e peso, enquanto nas classes "Pessoa 1" e "Pessoa 2" existem outros atributos que não estão presentes em ambos, desse modo não são essenciais.
     
      ![Classe abstrata](https://user-images.githubusercontent.com/36522521/215302022-78e00048-2543-4cb4-91ae-9fd2a5bfa3c6.png)
   
+- **Encapsulamento** 
+    
+    No encapsulamento ocorre a proteção dos dados, visto que os atributos serão privados. Portanto, devemos utilizar para "esconder" informações do usuário, seja devido a informações sigilisas como fórmulas ou até mesmo processos realizadas pelo software.
 
-Encapsulamento -> Proteger os dados e torna privados
 
 Herança ->
 
