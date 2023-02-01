@@ -1,18 +1,28 @@
 # Programação Orientada a Objetos
 
 Paradigma de programação que organiza os dados(objetos) utilizando atributos(características) e métodos(ações) de um objeto.
+    
+___
+### ➡️ **Programação** 
+A programação pode ser definida como "ato de escrever instruções para que máquinas executem uma determinada função ou várias funções encadeadas.", ou seja, em curtas palavras:
 
-- OBJETO ⇒ Um objeto é único
-    - Atributos/Propriedades⇒ Descreve o objeto
-    - Nouns
-        
-        → Coisas
-        
-        → Lugares
-        
-        → Ideais
-        
-        → Conceitos
+    É um forma de resolver problemas do cotidiano.
+
+___
+### ➡️ **Objeto** 
+
+Um objeto é único, pois contém um conjunto de atributos(varíáveis) e métodos(funções). Desse modo, o objeto tem sua própia identidade.
+     
+- Atributos/Propriedades ⇒ Descreve o objeto
+- Nouns
+
+    → Coisas
+
+    → Lugares
+
+    → Ideais
+
+    → Conceitos
     
 ___
 ### ➡️ **Classes**
