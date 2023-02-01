@@ -88,12 +88,21 @@ ___
 
 - **Herança** 
 
+    A Herança é essêncial para utilizarmos sub-classes, ou seja, quando temos um classe geral e desejamos criar um especificação dentro do nicho/área da classe principal. 
+    
+    Um exemplo é quando temos a classe "Loja" com os atributos nome, cnpj e endereço, portanto podemos criar uma sub-classe para definir a categoria da loja, "Supermercado" por exemplo. Então, iremos herdar os atributos de "Loja" utilizando herança(:) e adicionar os novos atributos relacionados a classe "Supermercado".
+
+    
+    
 - **Polimorfismo** 
 
-    Dinamico: 
-    
-    Estático:
+    No Polimorfismo utilizamos um conceito parecido com herança, porém ao invés de invocar os atributos, a classe derivada invoca o método da principal. Porém o comportamento das duas classes é diferente.
 
+    - **Dinâmico:**
+            O dinâmico mantém os métodos da classe principal, porém sobrescreve eles. Por exemplo, a classe principal tem um formula de área padrão em um dos métodos e desejo calcular outro tipo de área na classe dependente. Então, devo "repetir" o método da primeira classe e atribuir novos valores.
+
+    - **Estático:**
+            O estático ocorre quando a mesma operação é atribuida diversas vezes na mesma classe.
 
 ___
 ### ➡️ 3 Etapas do Software
